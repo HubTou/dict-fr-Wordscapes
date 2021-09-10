@@ -29,3 +29,4 @@ This dictionary is placed in the Public Domain.
 
 ## AUTHORS
 [Hubert Tournier](https://github.com/HubTou) and family, as well as other Internet denizens.
+
